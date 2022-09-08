@@ -1,0 +1,7 @@
+p.welcome {
+  border-style: dashed;
+ font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 200%;
+  color: green;
+  background-color: 	#F08080;
+}
